@@ -25,12 +25,6 @@ module.exports = {
           docId: "technology-guide",
           position: "left",
           label: "Technology Guide"
-        },
-        {
-          type: "doc",
-          docId: "intro",
-          position: "left",
-          label: "Tutorial"
         }
       ]
     },
